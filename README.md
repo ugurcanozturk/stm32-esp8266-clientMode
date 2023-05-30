@@ -1,5 +1,5 @@
 # stm32-esp8266-clientMode
- Client Mode esp8266 with stm32
+ Setting up the ESP8266 as a client and preparing it for TCP transmission to send a message to the targeted ESP8266.
  
  By configuring the esp8266 in client mode, it connects to the targeted esp8266 and sends the desired message to the esp8266 in AP mode using the TCP-IP communication protocol. 
  In the project, two separate esp8266 devices, programmed with stm32, are used for client mode and AP mode respectively.
