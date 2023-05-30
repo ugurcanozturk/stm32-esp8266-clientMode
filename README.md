@@ -9,3 +9,5 @@
  
  The main objective of the project is to trigger an alarm for the parent in a different location when a baby cries, using a sound detection module. 
  For this purpose, communication between two microcontrollers is established using esp8266.
+ 
+ YOU SHOULD REFER TO THE OTHER REPOSİTORY FOR THE ACCESS POİNT MODE!!!
